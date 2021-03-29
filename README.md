@@ -22,8 +22,8 @@ self-hosted 가 가능한 Roam Research 와 비슷한 제품을 찾던 중 [athe
 - 매일 매일 4Clojure 문제 풀기, 혹은 도전하기
 
 - [ClojureScript for React Developer](https://youtube.com/playlist?list=PLUGfdBfjve9VGzp7G1C9FYfH8Yk1Px-11)
-    - [ ] Building Conduit: 1. Setup and Installation
-    - [ ] 2. REPL Integration, Components and Composition
+    - [x] Building Conduit: 1. Setup and Installation
+    - [x] 2. REPL Integration, Components and Composition
     - [ ] 3. Branch 03 Overview
     - [ ] 4. Interactive cljs-ajax 101
     - [ ] 5. Implement article-preview component
